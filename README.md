@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HannahSousa
 - 👀 I’m interested in study
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and C.
 - 💞️ I’m looking to collaborate on academic projects
 - 📫 How to reach me : hannahsousa.academico@gmail.com
 - 😄 Pronouns: she/her
